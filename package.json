@@ -1,0 +1,25 @@
+{
+  "name": "samsung-restful-api",
+  "version": "1.0.0",
+  "description": "A RESTful API that scrapes the internet to get samsung device information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phone",
+    "device",
+    "samsung",
+    "gsmarena",
+    "restful",
+    "api",
+    "nodejs"
+  ],
+  "author": "nguyenkevins",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  }
+}
